@@ -1,0 +1,17 @@
+C:\Users\john\Desktop\DebogageAvecLesTestsUnitaires-CodeSource\Model.UTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\john\Desktop\DebogageAvecLesTestsUnitaires-CodeSource\Model.UTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\john\Desktop\DebogageAvecLesTestsUnitaires-CodeSource\Model.UTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\john\Desktop\DebogageAvecLesTestsUnitaires-CodeSource\Model.UTest\bin\Debug\netcoreapp2.0\Model.UTest.deps.json
+C:\Users\john\Desktop\DebogageAvecLesTestsUnitaires-CodeSource\Model.UTest\bin\Debug\netcoreapp2.0\Model.UTest.runtimeconfig.json
+C:\Users\john\Desktop\DebogageAvecLesTestsUnitaires-CodeSource\Model.UTest\bin\Debug\netcoreapp2.0\Model.UTest.runtimeconfig.dev.json
+C:\Users\john\Desktop\DebogageAvecLesTestsUnitaires-CodeSource\Model.UTest\bin\Debug\netcoreapp2.0\Model.UTest.dll
+C:\Users\john\Desktop\DebogageAvecLesTestsUnitaires-CodeSource\Model.UTest\bin\Debug\netcoreapp2.0\Model.UTest.pdb
+C:\Users\john\Desktop\DebogageAvecLesTestsUnitaires-CodeSource\Model.UTest\bin\Debug\netcoreapp2.0\Model.dll
+C:\Users\john\Desktop\DebogageAvecLesTestsUnitaires-CodeSource\Model.UTest\bin\Debug\netcoreapp2.0\Model.pdb
+C:\Users\john\Desktop\DebogageAvecLesTestsUnitaires-CodeSource\Model.UTest\obj\Debug\netcoreapp2.0\Model.UTest.csprojAssemblyReference.cache
+C:\Users\john\Desktop\DebogageAvecLesTestsUnitaires-CodeSource\Model.UTest\obj\Debug\netcoreapp2.0\Model.UTest.csproj.CoreCompileInputs.cache
+C:\Users\john\Desktop\DebogageAvecLesTestsUnitaires-CodeSource\Model.UTest\obj\Debug\netcoreapp2.0\Model.UTest.AssemblyInfoInputs.cache
+C:\Users\john\Desktop\DebogageAvecLesTestsUnitaires-CodeSource\Model.UTest\obj\Debug\netcoreapp2.0\Model.UTest.AssemblyInfo.cs
+C:\Users\john\Desktop\DebogageAvecLesTestsUnitaires-CodeSource\Model.UTest\obj\Debug\netcoreapp2.0\Model.UTest.csproj.CopyComplete
+C:\Users\john\Desktop\DebogageAvecLesTestsUnitaires-CodeSource\Model.UTest\obj\Debug\netcoreapp2.0\Model.UTest.dll
+C:\Users\john\Desktop\DebogageAvecLesTestsUnitaires-CodeSource\Model.UTest\obj\Debug\netcoreapp2.0\Model.UTest.pdb

@@ -1,0 +1,9 @@
+C:\Users\john\Desktop\DebogageAvecLesTestsUnitaires-CodeSource\Model\bin\Debug\netstandard2.0\Model.deps.json
+C:\Users\john\Desktop\DebogageAvecLesTestsUnitaires-CodeSource\Model\bin\Debug\netstandard2.0\Model.dll
+C:\Users\john\Desktop\DebogageAvecLesTestsUnitaires-CodeSource\Model\bin\Debug\netstandard2.0\Model.pdb
+C:\Users\john\Desktop\DebogageAvecLesTestsUnitaires-CodeSource\Model\obj\Debug\netstandard2.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\john\Desktop\DebogageAvecLesTestsUnitaires-CodeSource\Model\obj\Debug\netstandard2.0\Model.AssemblyInfoInputs.cache
+C:\Users\john\Desktop\DebogageAvecLesTestsUnitaires-CodeSource\Model\obj\Debug\netstandard2.0\Model.AssemblyInfo.cs
+C:\Users\john\Desktop\DebogageAvecLesTestsUnitaires-CodeSource\Model\obj\Debug\netstandard2.0\Model.dll
+C:\Users\john\Desktop\DebogageAvecLesTestsUnitaires-CodeSource\Model\obj\Debug\netstandard2.0\Model.pdb
+C:\Users\john\Desktop\DebogageAvecLesTestsUnitaires-CodeSource\Model\obj\Debug\netstandard2.0\Model.csprojAssemblyReference.cache
